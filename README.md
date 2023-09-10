@@ -1,7 +1,7 @@
 <h1 align=left>  
     &nbsp&nbsp&nbspX 🕊️
 </h1>
- 
+<!-- 
 <p align=left>
   <picture>
     <source
@@ -26,7 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dancer&show_icons=true" />
   </picture>  
 </p>
-
+ -->
 ## Experience
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=B78D65">
