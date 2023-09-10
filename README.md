@@ -1,8 +1,8 @@
-<h1 align=center>  
+<h1 align=left>  
   X 🕊️
 </h1>
  
-<p align=center>
+<p align=left>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=dancer&show_icons=true&bg_color=00000000&text_color=FFFFFF&icon_color=B78D65&title_color=B78D65&hide_border=true"
