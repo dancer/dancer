@@ -1,5 +1,5 @@
 <h1 align=left>  
-    &nbsp&nbsp&nbspX 🕊️
+X 🕊️
 </h1>
 
 <p align=left>
