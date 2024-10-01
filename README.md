@@ -3,6 +3,11 @@ X 🕊️
 </h1>
 
 <p align=left>
+  <a href="https://twitter.com/dxd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=A9A9A9" alt="Twitter"></a>
+  <a href="https://afterima.ge"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=A9A9A9" alt="Website"></a>
+</p>
+
+<p align=left>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=dancer&show_icons=true&bg_color=00000000&text_color=FFFFFF&icon_color=A9A9A9&title_color=A9A9A9&hide_border=false"
@@ -46,4 +51,6 @@ X 🕊️
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=A9A9A9">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=A9A9A9">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=A9A9A9">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=A9A9A9">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=A9A9A9">
 </p>
