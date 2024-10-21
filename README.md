@@ -3,8 +3,8 @@ X 🕊️
 </h1>
 
 <p align=left>
-  <a href="https://twitter.com/dxd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=A9A9A9" alt="Twitter"></a>
-  <a href="https://afterima.ge"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=A9A9A9" alt="Website"></a>
+  <a href="https://twitter.com/dxd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=A9A9A9" alt="X"></a>
+  <a href="https://afterima.ge"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=A9A9A9" alt="Site"></a>
 </p>
 
 <p align=left>
