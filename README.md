@@ -77,5 +77,3 @@
 ## Projects
 - **AI-Powered Web Apps:** Building apps using Next.js and OpenAI models for enhanced functionality.
 - **Custom Tools:** Developed a coding text editor with AI integration and custom styles.
-- **Personal Portfolio Site:** Created using Next.js, showcasing a modern, minimalistic design.
-- **Silent Screen:** An ad-blocking extension, “eyepatch,” for Google Chrome to enable distraction-free browsing.
